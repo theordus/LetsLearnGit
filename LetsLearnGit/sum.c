@@ -9,6 +9,6 @@ int main() {
         sum += i;
     }
 
-    printf("Sum issdsd sdsd d sdsd sd  = %d", sum);
+    printf("Sum of the numbers is  = %d", sum);
     return 0;
 }
